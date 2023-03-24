@@ -1,9 +1,3 @@
-/*---------------------------------------------------------
- * Copyright (C) Microsoft Corporation. All rights reserved.
- *--------------------------------------------------------*/
-
-/** To demonstrate code actions associated with Diagnostics problems, this file provides a mock diagnostics entries. */
-
 import * as vscode from 'vscode';
 
 /** Code that is used to associate diagnostic entries with code actions. */
