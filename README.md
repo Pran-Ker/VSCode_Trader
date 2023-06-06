@@ -26,4 +26,3 @@ If you find any issues with this extension or have suggestions for new features,
 ## License
 
 This extension is licensed under the [Apache2.0 License](LICENSE).
-
